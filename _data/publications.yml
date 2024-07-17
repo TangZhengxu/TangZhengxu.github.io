@@ -18,8 +18,8 @@ main:
     pdf: "./assets/files/462_final.pdf"
     image: "./assets/img/462_final.jpg"
   
-  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
-    authors: "<b>Zhengxu Tang</b>, Jess Yang, Yufei Chen"
+  - title: "Discrete Modeling of Dune-Obstacle Interactions and Dynamics"
+    authors: "Horacio Moreno, <b>Zhengxu Tang</b>, Jess Yang"
     conference_short: "Mathematics Modeling"
     pdf: "./assets/files/462_midterm.pdf"
     image: "./assets/img/462_midterm.jpg"
