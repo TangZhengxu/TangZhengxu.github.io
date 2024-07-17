@@ -3,7 +3,7 @@ main:
     authors: "<b>Zhengxu Tang</b>, Chenwei Wu"
     conference_short: "MLLM"
     pdf: "https://docs.google.com/presentation/d/e/2PACX-1vQgAJGyyXZhAr2p24bYN_pLMxhxAkbtt0hLTcwKTXtZ7gg7pVM7gF6vc5v0vOUzoNDUWUUCdQcxNVPb/pub?start=false&loop=false&delayms=3000"
-    image: "./assets/img/assets/img/WeChat563fc8a70a496d8771e3b7210c874ffe.jpg"
+    image: "./assets/img/assets/img/WeChat563fc8a70a496d8771e3b7210c874ffe copy.jpg"
     notes: "Lab Meeting"
 
   - title: "Multimodal Biomedical Learning: Explorations, Challenges, and Future Collaborations"
