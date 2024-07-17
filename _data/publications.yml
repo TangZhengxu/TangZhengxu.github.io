@@ -24,6 +24,6 @@ main:
   - title: "Discrete Modeling of Dune-Obstacle Interactions and Dynamics"
     authors: "Horacio Moreno, <b>Zhengxu Tang</b>, Jess Yang"
     conference_short: "Project"
-    pdf: "./assets/files/462_midterm.pdf"
+    pdf: "./assets/files/462_Midterm.pdf"
     image: "./assets/img/462_midterm.jpg"
     notes: "Mathematics Modeling"
