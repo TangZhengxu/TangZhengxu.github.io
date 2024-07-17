@@ -17,7 +17,7 @@ My current research focuses on building a multimodal model based on multiple typ
 
 ## News
 - **[Jul. 2024]** One paper I collaborated was submitted to Science Advances!
-- **[Jul. 2024]** Our paper Benchmarking the performance of video generation models via geometric and appearance consistency has been accepted by [ES-FoMO'2024](https://es-fomo.com/)!
+- **[Jul. 2024]** Our paper Benchmarking the performance of video generation models via geometric and appearance consistency has been accepted by ICML workshop[ES-FoMO'2024](https://es-fomo.com/)!
 - **[Sep. 2023]** Joined Biomedical Ai Lab!
 
 {% include_relative _includes/publications.md %}
