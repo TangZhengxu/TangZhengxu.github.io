@@ -20,8 +20,7 @@ mathematics_modeling:
     conference_short: Mathematics Modeling
     pdf: ./assets/files/462_final.pdf
     image: ./assets/img/462_final.jpg
-
-      - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: Mathematics Modeling
     pdf: ./assets/files/462_midterm.pdf
