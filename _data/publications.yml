@@ -1,5 +1,5 @@
 main:
-  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
+  - title: "A Multiomics Approach for Investigating Nitrogen Metabolism in Pancreatic Cancer"
     authors: "Peter Sajjakulnukit, Kira Holton, Tianrui Ma, <b>Zhengxu Tang</b>, Michael Akpabey"
     conference_short: "Bioinformatics"
     pdf: "./assets/files/bioinf545_group_6_final_report_ds.pdf"
@@ -19,7 +19,7 @@ main:
     image: "./assets/img/462_final.jpg"
   
   - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
-    authors: "Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)"
+    authors: "<b>Zhengxu Tang</b>, Jess Yang, Yufei Chen"
     conference_short: "Mathematics Modeling"
     pdf: "./assets/files/462_midterm.pdf"
     image: "./assets/img/462_midterm.jpg"
