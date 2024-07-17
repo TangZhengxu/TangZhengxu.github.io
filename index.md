@@ -16,7 +16,7 @@ Should you share similar interests or consider potential collaboration, please f
 - **AI for Science**
 - **Multimodal representation learning** 
 
-My current research focuses on building a multimodal model based on multiple types of medical data, such as medical images, genomics data, EHRs, and so on. I am particularly interested in Multimodal Learning and its applications in the Biomedical field. Human process various modes of information-including sight, sound, smell, and touch-constantly, and this information shapes our cognition and understanding of the world. Everything is interconnected. For this reason, I firmly believe that multimodal deep learning models are the most effective tools for addressing biomedical problems. l am committed to devoting my skills and expertise to this meaningful endeavor, withthe aim of contributing to societal well-being
+My current research focuses on building a multimodal model based on multiple types of medical data, such as medical images, genomics data, EHRs, and so on. I am particularly interested in Multimodal Learning and its applications in the Biomedical field. Human process various modes of information-including sight, sound, smell, and touch-constantly, and this information shapes our cognition and understanding of the world. Everything is interconnected. For this reason, I firmly believe that multimodal deep learning models are the most effective tools for addressing biomedical problems. l am committed to devoting my skills and expertise to this meaningful endeavor, with the aim of contributing to societal well-being
 
 ## News
 - **[Jul. 2024]** One paper I collaborated was submitted to Science Advances!
