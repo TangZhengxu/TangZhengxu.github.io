@@ -1,9 +1,10 @@
 main:
   - title: "A Multiomics Approach for Investigating Nitrogen Metabolism in Pancreatic Cancer"
     authors: "Peter Sajjakulnukit, Kira Holton, Tianrui Ma, <b>Zhengxu Tang</b>, Michael Akpabey"
-    conference_short: "Bioinformatics"
+    conference_short: "Project"
     pdf: "./assets/files/bioinf545_group_6_final_report_ds.pdf"
     image: "./assets/img/545_final.jpg"
+    notes: "Bioinformatics"
 
   - title: "Modeling APL-Mediated Local Inhibition in the Fruit Fly Mushroom Body"
     authors: "Yijie Pan, Sachin Salim, <b>Zhengxu Tang</b>"
