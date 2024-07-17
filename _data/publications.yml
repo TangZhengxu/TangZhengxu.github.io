@@ -1,4 +1,6 @@
-main:
+publications:
+
+course_projects:
   - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
     authors: "Peter Sajjakulnukit, Kira Holton, Tianrui Ma, <b>Zhengxu Tang</b>, Michael Akpabey"
     conference_short: "Bioinformatics"
