@@ -10,6 +10,5 @@ main:
     authors: "<b>Zhengxu Tang</b>, Chenwei Wu"
     conference_short: "Pathology"
     pdf: "https://docs.google.com/presentation/d/e/2PACX-1vQSFs--mwo9BGy9HAnIH2VD8cwotVcNJKmnYv5n9JmpUDAfl_LikjwFwq98ojCZaA/pub?start=false&loop=false&delayms=3000"
-    code: "https://github.com/TangZhengxu/MATH568_FInal_Project_2023"
     image: "./assets/img/598_final.jpg"
     notes: "Lab Meeting"
