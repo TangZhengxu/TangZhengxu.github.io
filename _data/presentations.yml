@@ -6,6 +6,13 @@ main:
     image: "./assets/img/WeChat563fc8a70a496d8771e3b7210c874ffe copy.jpg"
     notes: "Lab Meeting"
 
+  - title: "Intro to LLMs"
+    authors: "<b>Zhengxu Tang</b>, Chenwei Wu"
+    conference_short: "LLM"
+    pdf: "https://docs.google.com/presentation/d/e/2PACX-1vQlOYH2r2xaoclpLyyK-gbuRK6nsFvBHAIGGCsCbC1oKQtZZEu8vVW5KzXXZXajQYgKmZD6nXuOztlq/pub?start=false&loop=false&delayms=3000"
+    image: "./assets/img/llm.jpg"
+    notes: "Lab Meeting"
+
   - title: "Multimodal Biomedical Learning: Explorations, Challenges, and Future Collaborations"
     authors: "<b>Zhengxu Tang</b>, Chenwei Wu"
     conference_short: "Pathology"
