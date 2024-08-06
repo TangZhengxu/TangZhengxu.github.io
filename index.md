@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! This is **Zhengxu Tang** (唐正旭). I am currently a senior at the [University of Michigan](https://umich.edu), pursuing a double major in **Mathematical Sciences - Operations Research and Modeling** and **Computer Science**. 
+Hi! This is **Zhengxu Tang** (唐正旭). I am currently a senior at the [University of Michigan](https://umich.edu), pursuing a double major in **Mathematical Sciences - Operations Research and Modeling** and **Statistics**. 
 
 At present, I'm engaged as a research assistant in the [Biomedical AI Lab](https://liyueshen.engin.umich.edu/), under the guidance of Dr. Liyue Shen. Previously, I worked in the [Li Lab](https://www.labli.net/), mentored by Dr. Jinxing Li. 
 
