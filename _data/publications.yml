@@ -1,5 +1,5 @@
 main:
-    - title: "Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing"
+  - title: "Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing"
     authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*<b>[Co First Author], Bowen Song & Liyue Shen ‡"
     conference_short: "Submitted to TMLR"
     pdf: "https://arxiv.org/pdf/2408.13335"
