@@ -1,11 +1,11 @@
 main:
   - title: "Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing"
-    authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*[Co First Author]<b>, Bowen Song & Liyue Shen ‡"
+    authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*</b> [Co First Author], Bowen Song & Liyue Shen ‡"
     conference_short: "Submitted to TMLR"
     pdf: "https://arxiv.org/pdf/2408.13335"
     image: "./assets/img/figure3_3rd.png"
     notes: "Diffusion Model"
-  
+
   - title: "A Multiomics Approach for Investigating Nitrogen Metabolism in Pancreatic Cancer"
     authors: "Peter Sajjakulnukit, Kira Holton, Tianrui Ma, <b>Zhengxu Tang</b>, Michael Akpabey"
     conference_short: "Project"
