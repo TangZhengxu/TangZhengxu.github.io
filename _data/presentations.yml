@@ -3,7 +3,7 @@ main:
     authors: "Zhengxu Tang"
     conference_short: "Foundation Model"
     pdf: "https://docs.google.com/presentation/d/e/2PACX-1vTcKnAVHLdaSYLb4-mFyAN5aiESIMJz960mh6LUEhRpGA6Lo84vFY_2VrXchie6pNXH7tSsGWbAbqqX/pub?start=false&loop=false&delayms=3000"
-    image: "./assets/img/WeChat563fc8a70a496d8771e3b7210c874ffe copy.jpg"
+    image: "./assets/img/27241733087820_.pic.jpg"
     notes: "Lab Meeting"
 
   - title: "An Overview of Multimodal LLM"
