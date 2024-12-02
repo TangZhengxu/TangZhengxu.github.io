@@ -14,7 +14,7 @@ main:
     notes: "Diffusion Model"
 
   - title: "Distributionally Robust Alignment for Medical Federated Vision-Language Pre-training Under Data Heterogeneity"
-    authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*</b> [Co Second Author], Bowen Song & Liyue Shen ‡"
+    authors: "Zitao Shuai, Chenwei Wu*, <b>Zhengxu Tang*</b> [Co Second Author], Bowen Song & Liyue Shen ‡"
     conference_short: "Submitted to TMLR"
     pdf: "https://arxiv.org/pdf/2404.03854"
     image: "./assets/img/27261733105270_.pic.jpg"
