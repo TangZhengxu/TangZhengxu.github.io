@@ -1,4 +1,11 @@
 main:
+  - title: "Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLMOphthalmological QA in LMICs"
+    authors: "Restrepo David, Wu Chenwei, <b>Zhengxu Tang*</b>, Shuai Zitao, and et al"
+    conference_short: "AAAI 25"
+    pdf: "https://arxiv.org/pdf/2412.14304"
+    image: "./assets/img/multilingual.jpg"
+    notes: "LLM"
+
   - title: "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts"
     authors: "Chenwei Wu*, Zitao Shuai*, <b>Zhengxu Tang*</b> [Co First Author], Luning Wang & Liyue Shen ‡"
     conference_short: "Submitted to ICLR"
