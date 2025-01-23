@@ -1,17 +1,19 @@
 main:
+
+  - title: "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts"
+    authors: "Chenwei Wu*, Zitao Shuai*, <b>Zhengxu Tang*</b> [Co First Author], Luning Wang & Liyue Shen ‡"
+    conference_short: "ICLR 2025"
+    pdf: "https://openreview.net/forum?id=NJxCpMt0sf"
+    image: "./assets/img/27251733105226_.pic.jpg"
+    notes: "Multimodal Multitask Model"
+
   - title: "Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLMOphthalmological QA in LMICs"
-    authors: "Restrepo David, Wu Chenwei, <b>Zhengxu Tang*</b>, Shuai Zitao, and et al"
+    authors: "Restrepo David, Wu Chenwei, <b>Zhengxu Tang*</b>[Second Author], Shuai Zitao, and et al"
     conference_short: "AAAI 25"
     pdf: "https://arxiv.org/pdf/2412.14304"
     image: "./assets/img/multilingual.jpg"
     notes: "LLM"
 
-  - title: "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts"
-    authors: "Chenwei Wu*, Zitao Shuai*, <b>Zhengxu Tang*</b> [Co First Author], Luning Wang & Liyue Shen ‡"
-    conference_short: "Submitted to ICLR"
-    pdf: "https://openreview.net/forum?id=NJxCpMt0sf"
-    image: "./assets/img/27251733105226_.pic.jpg"
-    notes: "Multimodal Multitask Model"
 
   - title: "Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing"
     authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*</b> [Co First Author], Bowen Song & Liyue Shen ‡"
