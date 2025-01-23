@@ -8,9 +8,9 @@ main:
     notes: "Multimodal Multitask Model"
 
   - title: "Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLMOphthalmological QA in LMICs"
-    authors: "Restrepo David, Wu Chenwei, <b>Zhengxu Tang*</b>[Second Author], Shuai Zitao, and et al"
+    authors: "Restrepo David, Wu Chenwei, <b>Zhengxu Tang*</b> [Second Author], Shuai Zitao, and et al"
     conference_short: "AAAI 25"
-    pdf: "https://arxiv.org/pdf/2412.14304"
+    pdf: "https://arxiv.org/abs/2412.14304"
     image: "./assets/img/multilingual.jpg"
     notes: "LLM"
 
@@ -18,14 +18,14 @@ main:
   - title: "Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing"
     authors: "Zitao Shuai*, Chenwei Wu*, <b>Zhengxu Tang*</b> [Co First Author], Bowen Song & Liyue Shen ‡"
     conference_short: "Submitted to TMLR"
-    pdf: "https://arxiv.org/pdf/2408.13335"
+    pdf: "https://arxiv.org/abs/2408.13335"
     image: "./assets/img/figure3_3rd.png"
     notes: "Diffusion Model"
 
   - title: "Distributionally Robust Alignment for Medical Federated Vision-Language Pre-training Under Data Heterogeneity"
     authors: "Zitao Shuai, Chenwei Wu, <b>Zhengxu Tang</b> & Liyue Shen ‡"
     conference_short: "Submitted to TMLR"
-    pdf: "https://arxiv.org/pdf/2404.03854"
+    pdf: "https://arxiv.org/abs/2404.03854"
     image: "./assets/img/27261733105270_.pic.jpg"
     notes: "Multimodal Model"
 
